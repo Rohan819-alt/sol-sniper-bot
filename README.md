@@ -1,6 +1,6 @@
 ![](https://github.com/MemeLabSniper/sol-sniper-bot/blob/692e4026a32d876fbe74702fea98de7c3279fb2e/readme/spl.png)
 
-**Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
+**Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL. 
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
 
 - `WSOL Snipe`
